@@ -49,6 +49,7 @@ A repository which I store my LeetCode AC submissions.
 | [0010-regular-expression-matching](https://github.com/vutiendat3601/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/vutiendat3601/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/vutiendat3601/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/vutiendat3601/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +105,7 @@ A repository which I store my LeetCode AC submissions.
 | [0021-merge-two-sorted-lists](https://github.com/vutiendat3601/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/vutiendat3601/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/vutiendat3601/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/vutiendat3601/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
