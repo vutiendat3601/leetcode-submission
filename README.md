@@ -64,6 +64,7 @@ A repository which I store my LeetCode AC submissions.
 | [0015-3sum](https://github.com/vutiendat3601/leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/vutiendat3601/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/vutiendat3601/leetcode/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vutiendat3601/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +90,8 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vutiendat3601/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/vutiendat3601/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
