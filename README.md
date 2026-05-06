@@ -19,6 +19,7 @@ A repository which I store my LeetCode AC submissions.
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vutiendat3601/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0010-regular-expression-matching](https://github.com/vutiendat3601/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/vutiendat3601/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@ A repository which I store my LeetCode AC submissions.
 | [0014-longest-common-prefix](https://github.com/vutiendat3601/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vutiendat3601/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/vutiendat3601/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/vutiendat3601/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +94,7 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vutiendat3601/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/vutiendat3601/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
