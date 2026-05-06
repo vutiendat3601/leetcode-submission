@@ -19,6 +19,7 @@ A repository which I store my LeetCode AC submissions.
 | [0033-search-in-rotated-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/vutiendat3601/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/vutiendat3601/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -36,6 +37,7 @@ A repository which I store my LeetCode AC submissions.
 | [0012-integer-to-roman](https://github.com/vutiendat3601/leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vutiendat3601/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vutiendat3601/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0036-valid-sudoku](https://github.com/vutiendat3601/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,4 +146,8 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/vutiendat3601/leetcode/tree/main/0029-divide-two-integers/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/vutiendat3601/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
