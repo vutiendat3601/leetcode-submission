@@ -17,6 +17,7 @@ A repository which I store my LeetCode AC submissions.
 | [0027-remove-element](https://github.com/vutiendat3601/leetcode/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/vutiendat3601/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ A repository which I store my LeetCode AC submissions.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vutiendat3601/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
