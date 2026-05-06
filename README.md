@@ -14,6 +14,7 @@ A repository which I store my LeetCode AC submissions.
 | [0016-3sum-closest](https://github.com/vutiendat3601/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/vutiendat3601/leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/vutiendat3601/leetcode/tree/main/0027-remove-element/) | Easy |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -74,6 +75,7 @@ A repository which I store my LeetCode AC submissions.
 | [0018-4sum](https://github.com/vutiendat3601/leetcode/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vutiendat3601/leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/vutiendat3601/leetcode/tree/main/0027-remove-element/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
