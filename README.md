@@ -26,6 +26,7 @@ A repository which I store my LeetCode AC submissions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/vutiendat3601/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/vutiendat3601/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/vutiendat3601/leetcode/tree/main/0006-zigzag-conversion/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/vutiendat3601/leetcode/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0010-regular-expression-matching](https://github.com/vutiendat3601/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
