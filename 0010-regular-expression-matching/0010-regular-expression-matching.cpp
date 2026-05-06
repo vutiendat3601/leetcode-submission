@@ -6,10 +6,10 @@ private:
     bool backtrack(int i, int j) {
         if (j >= n)
             return i >= m;
-        string tar = p.substr(j, 2);
-        if (tar[tar.size() - 1] == '*') {
+        char nxtChar = j + 1 < n ? p[j + 1] : '\0';
+        if (nxtChar == '*') {
             int k = i;
-            if (tar[0] == '.') {
+            if (p[j] == '.') {
                 while (k <= m) {
                     if (backtrack(k, j + 2))
                         return 1;
@@ -18,14 +18,14 @@ private:
             } else {
                 if (backtrack(i, j + 2))
                     return 1;
-                while (k < m && s[k] == tar[0]) {
+                while (k < m && s[k] == p[0]) {
                     if (backtrack(k + 1, j + 2))
                         return 1;
                     k++;
                 }
             }
         } else {
-            if (i < m && (tar[0] == s[i] || tar[0] == '.'))
+            if (i < m && (p[j] == s[i] || p[j] == '.'))
                 return backtrack(i + 1, j + 1);
         }
         return 0;
