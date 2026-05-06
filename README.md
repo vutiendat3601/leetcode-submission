@@ -11,6 +11,7 @@ A repository which I store my LeetCode AC submissions.
 | [0011-container-with-most-water](https://github.com/vutiendat3601/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/vutiendat3601/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/vutiendat3601/leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/vutiendat3601/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@ A repository which I store my LeetCode AC submissions.
 | [0005-longest-palindromic-substring](https://github.com/vutiendat3601/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/vutiendat3601/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/vutiendat3601/leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/vutiendat3601/leetcode/tree/main/0016-3sum-closest/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +79,5 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/vutiendat3601/leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/vutiendat3601/leetcode/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
