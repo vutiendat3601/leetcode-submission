@@ -25,6 +25,7 @@ A repository which I store my LeetCode AC submissions.
 | [0041-first-missing-positive](https://github.com/vutiendat3601/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/vutiendat3601/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/vutiendat3601/leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/vutiendat3601/leetcode/tree/main/0046-permutations/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Dynamic Programming
@@ -134,6 +135,7 @@ A repository which I store my LeetCode AC submissions.
 | [0022-generate-parentheses](https://github.com/vutiendat3601/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/vutiendat3601/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/vutiendat3601/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0046-permutations](https://github.com/vutiendat3601/leetcode/tree/main/0046-permutations/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
