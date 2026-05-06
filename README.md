@@ -22,6 +22,7 @@ A repository which I store my LeetCode AC submissions.
 | [0036-valid-sudoku](https://github.com/vutiendat3601/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/vutiendat3601/leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/vutiendat3601/leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0041-first-missing-positive](https://github.com/vutiendat3601/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -40,6 +41,7 @@ A repository which I store my LeetCode AC submissions.
 | [0013-roman-to-integer](https://github.com/vutiendat3601/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vutiendat3601/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/vutiendat3601/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0041-first-missing-positive](https://github.com/vutiendat3601/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
