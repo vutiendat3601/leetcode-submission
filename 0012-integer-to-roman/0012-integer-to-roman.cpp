@@ -15,3 +15,5 @@ public:
         return ans;
     }
 };
+
+// Greedy, time: O(n), space: O(1)
