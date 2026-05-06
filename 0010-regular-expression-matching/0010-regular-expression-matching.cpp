@@ -6,8 +6,8 @@ private:
     bool backtrack(int i, int j) {
         if (j >= n)
             return i >= m;
-        char nxtChar = j + 1 < n ? p[j + 1] : '\0';
-        if (nxtChar == '*') {
+
+        if ((j + 1 < n ? p[j + 1] : '\0') == '*') {
             int k = i;
             if (p[j] == '.') {
                 while (k <= m) {
@@ -18,7 +18,7 @@ private:
             } else {
                 if (backtrack(i, j + 2))
                     return 1;
-                while (k < m && s[k] == p[0]) {
+                while (k < m && s[k] == p[j]) {
                     if (backtrack(k + 1, j + 2))
                         return 1;
                     k++;
