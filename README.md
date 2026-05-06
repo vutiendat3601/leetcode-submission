@@ -54,6 +54,7 @@ A repository which I store my LeetCode AC submissions.
 | [0022-generate-parentheses](https://github.com/vutiendat3601/leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vutiendat3601/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/vutiendat3601/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0038-count-and-say](https://github.com/vutiendat3601/leetcode/tree/main/0038-count-and-say/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
