@@ -1,24 +1,29 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        int n = nums.size(), i = 0;
-        vector<int> ans = {-1, -1};
+        int n = nums.size(), l = 0, r = n - 1, idx = -1;
+        while (l <= r) {
+            int mid = l + (r - l) / 2;
 
-        while (i < n) {
-            if (nums[i] == target) {
-                ans[0] = ans[1] = i;
-                break;
-            }
-            i++;
-        }
-        for (int j = n - 1; j > i; j--) {
-            if (nums[j] == target) {
-                ans[1] = j;
+            if (nums[mid] > target) {
+                r = mid - 1;
+            } else if (nums[mid] < target) {
+                l = mid + 1;
+            } else {
+                idx = mid;
                 break;
             }
         }
-        return ans;
+        if (idx != -1) {
+            l = r = idx;
+            while (l > 0 && nums[l - 1] == target)
+                l--;
+            while (r < n - 1 && nums[r + 1] == target)
+                r++;
+            return {l, r};
+        }
+        return {-1, -1};
     }
 };
 
-// Brute Force, time: O(n), space: O(1)
+// Binary Search, time: O(log(n)), space: O(1)
