@@ -1,21 +1,29 @@
 class Solution {
-public:
-    int minHeightShelves(vector<vector<int>>& books, int shelfWidth) {
-        int n = books.size();
-        vector<int> dp(n + 1, INT_MAX);
-        dp[n] = 0;
-        for (int i = n - 1; i >= 0; i--) {
-            int cur_height = 0, cur_width = 0;
-            for (int j = i; j < n; j++) {
-                if (cur_width + books[j][0] > shelfWidth)
-                    break;
-                cur_width += books[j][0];
-                cur_height = max(cur_height, books[j][1]);
-                dp[i] = min(dp[i], cur_height + dp[j + 1]);
+private:
+    int shelfWidth, n;
+
+    int dfs(vector<vector<int>>& books, int k, unordered_map<int, int>& cache) {
+        if (k >= n)
+            return 0;
+        if (!cache.count(k)) {
+            int cur_width = 0, mx_height = 0, i = k;
+            cache[k] = INT_MAX;
+            while (i < n && cur_width + books[i][0] <= shelfWidth) {
+                cur_width += books[i][0],
+                    mx_height = max(mx_height, books[i][1]);
+                cache[k] = min(cache[k], mx_height + dfs(books, i + 1, cache));
+                i++;
             }
         }
-        return dp[0];
+        return cache[k];
+    }
+
+public:
+    int minHeightShelves(vector<vector<int>>& books, int shelfWidth) {
+        n = books.size(), this->shelfWidth = shelfWidth;
+        unordered_map<int, int> cache;
+        return dfs(books, 0, cache);
     }
 };
 
-// DP, time: O(n), space: O(n)
+// DFS + Memorization, time: O(n), space: O(n)
