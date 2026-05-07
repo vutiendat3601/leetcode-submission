@@ -5,13 +5,14 @@ public:
             return n ? x : 1;
 
         double tmp = 0;
-        if (n > 1) {
+        long ln = n;
+        if (ln > 1) {
             tmp = myPow(x, n / 2), tmp *= tmp;
-            if ((n & 1) > 0)
+            if ((ln & 1L) > 0)
                 tmp *= x;
-        } else if (n < 0) {
+        } else if (ln < 0) {
             tmp = myPow(x, -(n / 2)), tmp *= tmp;
-            if ((-n & 1) > 0)
+            if ((-ln & 1L) > 0)
                 tmp *= x;
             tmp = 1.0 / tmp;
         }
