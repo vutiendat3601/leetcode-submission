@@ -31,6 +31,7 @@ A repository which I store my LeetCode AC submissions.
 | [0049-group-anagrams](https://github.com/vutiendat3601/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/vutiendat3601/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/vutiendat3601/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/vutiendat3601/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Dynamic Programming
@@ -188,6 +189,7 @@ A repository which I store my LeetCode AC submissions.
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/vutiendat3601/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/vutiendat3601/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/vutiendat3601/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -197,4 +199,5 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/vutiendat3601/leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0054-spiral-matrix](https://github.com/vutiendat3601/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
