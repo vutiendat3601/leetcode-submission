@@ -79,6 +79,7 @@ A repository which I store my LeetCode AC submissions.
 | [0038-count-and-say](https://github.com/vutiendat3601/leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/vutiendat3601/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/vutiendat3601/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/vutiendat3601/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
