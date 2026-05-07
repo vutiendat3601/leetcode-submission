@@ -28,6 +28,7 @@ A repository which I store my LeetCode AC submissions.
 | [0046-permutations](https://github.com/vutiendat3601/leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/vutiendat3601/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/vutiendat3601/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/vutiendat3601/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Dynamic Programming
@@ -50,6 +51,7 @@ A repository which I store my LeetCode AC submissions.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vutiendat3601/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0036-valid-sudoku](https://github.com/vutiendat3601/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/vutiendat3601/leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/vutiendat3601/leetcode/tree/main/0049-group-anagrams/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +70,7 @@ A repository which I store my LeetCode AC submissions.
 | [0032-longest-valid-parentheses](https://github.com/vutiendat3601/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0038-count-and-say](https://github.com/vutiendat3601/leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0043-multiply-strings](https://github.com/vutiendat3601/leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0049-group-anagrams](https://github.com/vutiendat3601/leetcode/tree/main/0049-group-anagrams/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +135,7 @@ A repository which I store my LeetCode AC submissions.
 | [0016-3sum-closest](https://github.com/vutiendat3601/leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/vutiendat3601/leetcode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/vutiendat3601/leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0049-group-anagrams](https://github.com/vutiendat3601/leetcode/tree/main/0049-group-anagrams/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
