@@ -1,15 +1,23 @@
 class Solution {
 public:
     int combinationSum4(vector<int>& nums, int target) {
-        vector<int> dp(target + 1, 0);
-        dp[0] = 1;
-        for (int i = 1; i <= target; i++) {
-            for (auto& num : nums)
-                if (i - num >= 0)
-                    dp[i] += dp[i - num];
+        sort(nums.begin(), nums.end());
+        unordered_map<int, int> dp;
+        dp[target] = 1;
+
+        for (int total = target; total > 0; total--) {
+            if (dp[total] == -1)
+                continue;
+            for (auto& num : nums) {
+                if (total < num)
+                    break;
+                if (dp[total - num] + 0LL + dp[total] > INT_MAX) {
+                    dp[total - num] = -1;
+                    break;
+                }
+                dp[total - num] += dp[total];
+            }
         }
-        return dp[target];
+        return dp[0];
     }
 };
-
-// DFS + Memorization, time: O(n), space: O(n)
