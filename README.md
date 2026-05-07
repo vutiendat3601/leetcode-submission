@@ -78,6 +78,7 @@ A repository which I store my LeetCode AC submissions.
 | [0021-merge-two-sorted-lists](https://github.com/vutiendat3601/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/vutiendat3601/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/vutiendat3601/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0050-powx-n](https://github.com/vutiendat3601/leetcode/tree/main/0050-powx-n/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,6 +120,7 @@ A repository which I store my LeetCode AC submissions.
 | [0029-divide-two-integers](https://github.com/vutiendat3601/leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/vutiendat3601/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/vutiendat3601/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/vutiendat3601/leetcode/tree/main/0050-powx-n/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
