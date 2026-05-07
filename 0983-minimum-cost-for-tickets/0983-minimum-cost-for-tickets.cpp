@@ -1,28 +1,19 @@
 class Solution {
-private:
-    int dfs(vector<int>& days, vector<int>& costs, int k,
-            unordered_map<int, int>& cache) {
-        if (k < 0)
-            return 0;
-        if (!cache.count(k)) {
-            cache[k] = INT_MAX;
-            vector<int> prev_days = {days[k] - 1, days[k] - 7, days[k] - 30};
-            for (int i = 0; i < 3; i++) {
-                int j = k;
-                while (j >= 0 && days[j] > prev_days[i])
-                    j--;
-                cache[k] = min(cache[k], costs[i] + dfs(days, costs, j, cache));
-            }
-        }
-        return cache[k];
-    }
-
 public:
     int mincostTickets(vector<int>& days, vector<int>& costs) {
         int n = days.size();
-        unordered_map<int, int> cache;
-        return dfs(days, costs, n - 1, cache);
+        vector<int> dp(n, INT_MAX);
+        for (int i = 0; i < n; i++) {
+            vector<int> prev_days = {days[i] - 1, days[i] - 7, days[i] - 30};
+            for (int j = 0; j < 3; j++) {
+                int k = i;
+                while (k >= 0 && days[k] > prev_days[j])
+                    k--;
+                dp[i] = min(dp[i], costs[j] + (k >= 0 ? dp[k] : 0));
+            }
+        }
+        return dp[n - 1];
     }
 };
 
-// DFS + Memorization, time: O(n), space: O(n)
+// DP, time: O(n), space: O(n)
