@@ -5,9 +5,9 @@ public:
         vector<int> dp(n + 1, INF);
         dp[0] = -INF;
         for (int i = 0; i < n; i++) {
-            for (int j = 1; j <= n; j++)
-                if (dp[j - 1] < nums[i] && nums[i] < dp[j])
-                    dp[j] = nums[i];
+            int k = upper_bound(dp.begin(), dp.end(), nums[i]) - dp.begin();
+            if (dp[k - 1] < nums[i])
+                dp[k] = nums[i];
         }
         for (int i = 1; i <= n; i++)
             if (dp[i] < INF)
