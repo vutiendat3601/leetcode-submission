@@ -36,6 +36,7 @@ A repository which I store my LeetCode AC submissions.
 | [0056-merge-intervals](https://github.com/vutiendat3601/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/vutiendat3601/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/vutiendat3601/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/vutiendat3601/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/vutiendat3601/leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
@@ -53,6 +54,7 @@ A repository which I store my LeetCode AC submissions.
 | [0053-maximum-subarray](https://github.com/vutiendat3601/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/vutiendat3601/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/vutiendat3601/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/vutiendat3601/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/vutiendat3601/leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
@@ -107,6 +109,7 @@ A repository which I store my LeetCode AC submissions.
 | [0033-search-in-rotated-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/vutiendat3601/leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
