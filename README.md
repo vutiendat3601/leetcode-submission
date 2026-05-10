@@ -36,6 +36,7 @@ A repository which I store my LeetCode AC submissions.
 | [0056-merge-intervals](https://github.com/vutiendat3601/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/vutiendat3601/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/vutiendat3601/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0075-sort-colors](https://github.com/vutiendat3601/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/vutiendat3601/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
@@ -133,6 +134,7 @@ A repository which I store my LeetCode AC submissions.
 | [0031-next-permutation](https://github.com/vutiendat3601/leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/vutiendat3601/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/vutiendat3601/leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0075-sort-colors](https://github.com/vutiendat3601/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -165,6 +167,7 @@ A repository which I store my LeetCode AC submissions.
 | [0047-permutations-ii](https://github.com/vutiendat3601/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/vutiendat3601/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/vutiendat3601/leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/vutiendat3601/leetcode/tree/main/0075-sort-colors/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
