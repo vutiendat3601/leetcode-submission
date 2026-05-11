@@ -40,6 +40,7 @@ A repository which I store my LeetCode AC submissions.
 | [0300-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/vutiendat3601/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/vutiendat3601/leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
@@ -59,6 +60,7 @@ A repository which I store my LeetCode AC submissions.
 | [0300-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/vutiendat3601/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/vutiendat3601/leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
@@ -93,6 +95,7 @@ A repository which I store my LeetCode AC submissions.
 | [0043-multiply-strings](https://github.com/vutiendat3601/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/vutiendat3601/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/vutiendat3601/leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
