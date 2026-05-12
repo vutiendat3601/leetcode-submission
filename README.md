@@ -139,6 +139,7 @@ A repository which I store my LeetCode AC submissions.
 | [0042-trapping-rain-water](https://github.com/vutiendat3601/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/vutiendat3601/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/vutiendat3601/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0086-partition-list](https://github.com/vutiendat3601/leetcode/tree/main/0086-partition-list/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -192,6 +193,7 @@ A repository which I store my LeetCode AC submissions.
 | [0024-swap-nodes-in-pairs](https://github.com/vutiendat3601/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/vutiendat3601/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/vutiendat3601/leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0086-partition-list](https://github.com/vutiendat3601/leetcode/tree/main/0086-partition-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
