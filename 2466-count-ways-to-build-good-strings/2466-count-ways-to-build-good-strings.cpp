@@ -1,27 +1,17 @@
 class Solution {
-private:
-    const int MOD = 1e9 + 7;
-    int zero, one;
-    int dfs(int n, unordered_map<int, int>& cache) {
-        if (!n)
-            return 1;
-        if (!cache.count(n)) {
-            cache[n] = 0;
-            if (n - zero >= 0)
-                cache[n] += dfs(n - zero, cache), cache[n] %= MOD;
-            if (n - one >= 0)
-                cache[n] += dfs(n - one, cache), cache[n] %= MOD;
-        }
-        return cache[n];
-    }
-
 public:
     int countGoodStrings(int low, int high, int zero, int one) {
-        this->zero = zero, this->one = one;
-        unordered_map<int, int> cache;
-        int ans = 0;
-        for (int i = high; i >= low; i--)
-            ans += dfs(i, cache), ans %= MOD;
+        int ans = 0, MOD = 1e9 + 7;
+        vector<int> dp(high + 1, 0);
+        dp[0] = 1;
+        for (int i = 0; i <= high; i++) {
+            if (i - zero >= 0)
+                dp[i] += dp[i - zero], dp[i] %= MOD;
+            if (i - one >= 0)
+                dp[i] += dp[i - one], dp[i] %= MOD;
+            if (low <= i)
+                ans += dp[i], ans %= MOD;
+        }
 
         return ans;
     }
