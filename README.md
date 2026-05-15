@@ -42,6 +42,7 @@ A repository which I store my LeetCode AC submissions.
 | [0377-combination-sum-iv](https://github.com/vutiendat3601/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0740-delete-and-earn](https://github.com/vutiendat3601/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/vutiendat3601/leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -65,6 +66,7 @@ A repository which I store my LeetCode AC submissions.
 | [0377-combination-sum-iv](https://github.com/vutiendat3601/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0740-delete-and-earn](https://github.com/vutiendat3601/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/vutiendat3601/leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 ## Hash Table
@@ -78,6 +80,7 @@ A repository which I store my LeetCode AC submissions.
 | [0036-valid-sudoku](https://github.com/vutiendat3601/leetcode/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/vutiendat3601/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/vutiendat3601/leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0740-delete-and-earn](https://github.com/vutiendat3601/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/vutiendat3601/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## String
 | Problem Name | Difficulty |
