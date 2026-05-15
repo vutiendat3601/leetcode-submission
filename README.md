@@ -60,6 +60,7 @@ A repository which I store my LeetCode AC submissions.
 | [0053-maximum-subarray](https://github.com/vutiendat3601/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/vutiendat3601/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/vutiendat3601/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/vutiendat3601/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/vutiendat3601/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
@@ -160,6 +161,7 @@ A repository which I store my LeetCode AC submissions.
 | [0048-rotate-image](https://github.com/vutiendat3601/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/vutiendat3601/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/vutiendat3601/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/vutiendat3601/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,4 +261,8 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/vutiendat3601/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
