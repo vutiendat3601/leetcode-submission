@@ -46,6 +46,7 @@ A repository which I store my LeetCode AC submissions.
 | [0983-minimum-cost-for-tickets](https://github.com/vutiendat3601/leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1035-uncrossed-lines](https://github.com/vutiendat3601/leetcode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
+| [1626-best-team-with-no-conflicts](https://github.com/vutiendat3601/leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/vutiendat3601/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/vutiendat3601/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -72,6 +73,7 @@ A repository which I store my LeetCode AC submissions.
 | [0983-minimum-cost-for-tickets](https://github.com/vutiendat3601/leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1035-uncrossed-lines](https://github.com/vutiendat3601/leetcode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
+| [1626-best-team-with-no-conflicts](https://github.com/vutiendat3601/leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [2466-count-ways-to-build-good-strings](https://github.com/vutiendat3601/leetcode/tree/main/2466-count-ways-to-build-good-strings/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -185,6 +187,7 @@ A repository which I store my LeetCode AC submissions.
 | [0049-group-anagrams](https://github.com/vutiendat3601/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/vutiendat3601/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/vutiendat3601/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [1626-best-team-with-no-conflicts](https://github.com/vutiendat3601/leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/vutiendat3601/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
