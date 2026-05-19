@@ -36,6 +36,7 @@ A repository which I store my LeetCode AC submissions.
 | [0056-merge-intervals](https://github.com/vutiendat3601/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/vutiendat3601/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/vutiendat3601/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/vutiendat3601/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/vutiendat3601/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
@@ -62,6 +63,7 @@ A repository which I store my LeetCode AC submissions.
 | [0053-maximum-subarray](https://github.com/vutiendat3601/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/vutiendat3601/leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/vutiendat3601/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/vutiendat3601/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/vutiendat3601/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/vutiendat3601/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -240,6 +242,7 @@ A repository which I store my LeetCode AC submissions.
 | [0048-rotate-image](https://github.com/vutiendat3601/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/vutiendat3601/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/vutiendat3601/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/vutiendat3601/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
