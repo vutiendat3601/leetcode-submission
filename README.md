@@ -52,6 +52,7 @@ A repository which I store my LeetCode AC submissions.
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/vutiendat3601/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/vutiendat3601/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +178,7 @@ A repository which I store my LeetCode AC submissions.
 | [0062-unique-paths](https://github.com/vutiendat3601/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/vutiendat3601/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/vutiendat3601/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
