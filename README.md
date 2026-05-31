@@ -214,6 +214,7 @@ A repository which I store my LeetCode AC submissions.
 | [0047-permutations-ii](https://github.com/vutiendat3601/leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/vutiendat3601/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/vutiendat3601/leetcode/tree/main/0052-n-queens-ii/) | Hard |
+| [0077-combinations](https://github.com/vutiendat3601/leetcode/tree/main/0077-combinations/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
