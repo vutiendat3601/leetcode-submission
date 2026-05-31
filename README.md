@@ -39,6 +39,7 @@ A repository which I store my LeetCode AC submissions.
 | [0064-minimum-path-sum](https://github.com/vutiendat3601/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/vutiendat3601/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/vutiendat3601/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0079-word-search](https://github.com/vutiendat3601/leetcode/tree/main/0079-word-search/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vutiendat3601/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
@@ -116,6 +117,7 @@ A repository which I store my LeetCode AC submissions.
 | [0049-group-anagrams](https://github.com/vutiendat3601/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/vutiendat3601/leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0072-edit-distance](https://github.com/vutiendat3601/leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/vutiendat3601/leetcode/tree/main/0079-word-search/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vutiendat3601/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vutiendat3601/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -215,6 +217,7 @@ A repository which I store my LeetCode AC submissions.
 | [0051-n-queens](https://github.com/vutiendat3601/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/vutiendat3601/leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/vutiendat3601/leetcode/tree/main/0077-combinations/) | Medium |
+| [0079-word-search](https://github.com/vutiendat3601/leetcode/tree/main/0079-word-search/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +259,7 @@ A repository which I store my LeetCode AC submissions.
 | [0054-spiral-matrix](https://github.com/vutiendat3601/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/vutiendat3601/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/vutiendat3601/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/vutiendat3601/leetcode/tree/main/0079-word-search/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -295,6 +299,7 @@ A repository which I store my LeetCode AC submissions.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/vutiendat3601/leetcode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/vutiendat3601/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
