@@ -52,6 +52,7 @@ A repository which I store my LeetCode AC submissions.
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/vutiendat3601/leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vutiendat3601/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/vutiendat3601/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/vutiendat3601/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -189,6 +190,7 @@ A repository which I store my LeetCode AC submissions.
 | [0011-container-with-most-water](https://github.com/vutiendat3601/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/vutiendat3601/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/vutiendat3601/leetcode/tree/main/0055-jump-game/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vutiendat3601/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +206,7 @@ A repository which I store my LeetCode AC submissions.
 | [0056-merge-intervals](https://github.com/vutiendat3601/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/vutiendat3601/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/vutiendat3601/leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vutiendat3601/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/vutiendat3601/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
