@@ -117,6 +117,7 @@ A repository which I store my LeetCode AC submissions.
 | [0043-multiply-strings](https://github.com/vutiendat3601/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/vutiendat3601/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/vutiendat3601/leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/vutiendat3601/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0072-edit-distance](https://github.com/vutiendat3601/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/vutiendat3601/leetcode/tree/main/0079-word-search/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
@@ -181,6 +182,7 @@ A repository which I store my LeetCode AC submissions.
 | [0050-powx-n](https://github.com/vutiendat3601/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/vutiendat3601/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/vutiendat3601/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/vutiendat3601/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/vutiendat3601/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/vutiendat3601/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -254,6 +256,7 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/vutiendat3601/leetcode/tree/main/0029-divide-two-integers/) | Medium |
+| [0067-add-binary](https://github.com/vutiendat3601/leetcode/tree/main/0067-add-binary/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +277,7 @@ A repository which I store my LeetCode AC submissions.
 | [0043-multiply-strings](https://github.com/vutiendat3601/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0054-spiral-matrix](https://github.com/vutiendat3601/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/vutiendat3601/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0067-add-binary](https://github.com/vutiendat3601/leetcode/tree/main/0067-add-binary/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/vutiendat3601/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
