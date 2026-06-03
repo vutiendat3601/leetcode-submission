@@ -186,6 +186,7 @@ A repository which I store my LeetCode AC submissions.
 | [0067-add-binary](https://github.com/vutiendat3601/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/vutiendat3601/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/vutiendat3601/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/vutiendat3601/leetcode/tree/main/0089-gray-code/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -224,6 +225,7 @@ A repository which I store my LeetCode AC submissions.
 | [0052-n-queens-ii](https://github.com/vutiendat3601/leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/vutiendat3601/leetcode/tree/main/0077-combinations/) | Medium |
 | [0079-word-search](https://github.com/vutiendat3601/leetcode/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/vutiendat3601/leetcode/tree/main/0089-gray-code/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +261,7 @@ A repository which I store my LeetCode AC submissions.
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/vutiendat3601/leetcode/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/vutiendat3601/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0089-gray-code](https://github.com/vutiendat3601/leetcode/tree/main/0089-gray-code/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
