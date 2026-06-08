@@ -44,6 +44,7 @@ A repository which I store my LeetCode AC submissions.
 | [0079-word-search](https://github.com/vutiendat3601/leetcode/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vutiendat3601/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vutiendat3601/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0088-merge-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vutiendat3601/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
@@ -179,6 +180,7 @@ A repository which I store my LeetCode AC submissions.
 | [0075-sort-colors](https://github.com/vutiendat3601/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vutiendat3601/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0086-partition-list](https://github.com/vutiendat3601/leetcode/tree/main/0086-partition-list/) | Medium |
+| [0088-merge-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -219,6 +221,7 @@ A repository which I store my LeetCode AC submissions.
 | [0049-group-anagrams](https://github.com/vutiendat3601/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/vutiendat3601/leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/vutiendat3601/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [1626-best-team-with-no-conflicts](https://github.com/vutiendat3601/leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vutiendat3601/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/vutiendat3601/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
