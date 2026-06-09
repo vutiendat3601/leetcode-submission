@@ -44,6 +44,7 @@ A repository which I store my LeetCode AC submissions.
 | [0079-word-search](https://github.com/vutiendat3601/leetcode/tree/main/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vutiendat3601/leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vutiendat3601/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/vutiendat3601/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vutiendat3601/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -260,6 +261,7 @@ A repository which I store my LeetCode AC submissions.
 | [0032-longest-valid-parentheses](https://github.com/vutiendat3601/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/vutiendat3601/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/vutiendat3601/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/vutiendat3601/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/vutiendat3601/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -295,6 +297,7 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/vutiendat3601/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/vutiendat3601/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
