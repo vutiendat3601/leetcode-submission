@@ -251,6 +251,7 @@ A repository which I store my LeetCode AC submissions.
 | [0025-reverse-nodes-in-k-group](https://github.com/vutiendat3601/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/vutiendat3601/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vutiendat3601/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/vutiendat3601/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/vutiendat3601/leetcode/tree/main/0086-partition-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
