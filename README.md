@@ -78,6 +78,7 @@ A repository which I store my LeetCode AC submissions.
 | [0064-minimum-path-sum](https://github.com/vutiendat3601/leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/vutiendat3601/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/vutiendat3601/leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0091-decode-ways](https://github.com/vutiendat3601/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/vutiendat3601/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
@@ -130,6 +131,7 @@ A repository which I store my LeetCode AC submissions.
 | [0072-edit-distance](https://github.com/vutiendat3601/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vutiendat3601/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/vutiendat3601/leetcode/tree/main/0079-word-search/) | Medium |
+| [0091-decode-ways](https://github.com/vutiendat3601/leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vutiendat3601/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vutiendat3601/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
