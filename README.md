@@ -378,4 +378,8 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/vutiendat3601/leetcode/tree/main/0146-lru-cache/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0184-department-highest-salary](https://github.com/vutiendat3601/leetcode/tree/main/0184-department-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
