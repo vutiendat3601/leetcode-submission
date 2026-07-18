@@ -62,6 +62,7 @@ A repository which I store my LeetCode AC submissions.
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/vutiendat3601/leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vutiendat3601/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vutiendat3601/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/vutiendat3601/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/vutiendat3601/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -215,6 +216,7 @@ A repository which I store my LeetCode AC submissions.
 | [0070-climbing-stairs](https://github.com/vutiendat3601/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/vutiendat3601/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0313-super-ugly-number](https://github.com/vutiendat3601/leetcode/tree/main/0313-super-ugly-number/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vutiendat3601/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -386,4 +388,8 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0184-department-highest-salary](https://github.com/vutiendat3601/leetcode/tree/main/0184-department-highest-salary/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/vutiendat3601/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
