@@ -387,6 +387,7 @@ A repository which I store my LeetCode AC submissions.
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/vutiendat3601/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0184-department-highest-salary](https://github.com/vutiendat3601/leetcode/tree/main/0184-department-highest-salary/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
