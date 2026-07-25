@@ -48,6 +48,7 @@ A repository which I store my LeetCode AC submissions.
 | [0088-merge-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/vutiendat3601/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vutiendat3601/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/vutiendat3601/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/vutiendat3601/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vutiendat3601/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -108,6 +109,7 @@ A repository which I store my LeetCode AC submissions.
 | [0041-first-missing-positive](https://github.com/vutiendat3601/leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/vutiendat3601/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vutiendat3601/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/vutiendat3601/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0146-lru-cache](https://github.com/vutiendat3601/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0740-delete-and-earn](https://github.com/vutiendat3601/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/vutiendat3601/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -394,4 +396,8 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vutiendat3601/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vutiendat3601/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
