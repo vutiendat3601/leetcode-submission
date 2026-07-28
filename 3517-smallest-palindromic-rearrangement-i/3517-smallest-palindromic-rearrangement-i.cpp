@@ -8,11 +8,8 @@ public:
         string ans(n, '1');
         char last = '1';
         for (char c = 'a'; c <= 'z'; c++) {
-            while (cnts[c] > 1) {
-                ans[l] = ans[r] = c;
-                l++, r--;
-                cnts[c] -= 2;
-            }
+            while (cnts[c] > 1)
+                ans[l++] = ans[r--] = c, cnts[c] -= 2;
             if (cnts[c])
                 last = c;
         }
