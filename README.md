@@ -146,6 +146,7 @@ A repository which I store my LeetCode AC submissions.
 | [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vutiendat3601/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vutiendat3601/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vutiendat3601/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +247,7 @@ A repository which I store my LeetCode AC submissions.
 | [1626-best-team-with-no-conflicts](https://github.com/vutiendat3601/leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vutiendat3601/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/vutiendat3601/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vutiendat3601/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,4 +402,8 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vutiendat3601/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/vutiendat3601/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
