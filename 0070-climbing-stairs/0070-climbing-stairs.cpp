@@ -1,11 +1,11 @@
 class Solution {
 private:
-    int dfs(int n, vector<int>& cache) {
-        if (n <= 1)
+    int dfs(int k, vector<int>& cache) {
+        if (!k || k == 1)
             return 1;
-        if (!cache[n])
-            cache[n] = dfs(n - 1, cache) + dfs(n - 2, cache);
-        return cache[n];
+        if (!cache[k])
+            cache[k] = dfs(k - 1, cache) + dfs(k - 2, cache);
+        return cache[k];
     }
 
 public:
