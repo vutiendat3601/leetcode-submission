@@ -1,12 +1,11 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int n = nums.size(), mn = 1, mx = 1, ans = nums[0];
-        for (auto& num : nums) {
-            int p = num * mx, pmn = mn * num;
-            mx = max(max(p, num), pmn);
-            mn = min(min(p, num), pmn);
-            ans = max(ans, mx);
+        int n = nums.size(), ans = INT_MIN;
+        for (int i = 0; i < n; i++) {
+            int p = 1;
+            for (int j = i; j < n; j++)
+                p *= nums[j], ans = max(ans, p);
         }
         return ans;
     }
