@@ -9,22 +9,18 @@ public:
             int l = i, r = i;
             while (0 <= l && r < n && s[l] == s[r]) {
                 int len = r - l + 1;
-                if (len > ans.size()) {
+                if (len > ans.size())
                     ans = s.substr(l, len);
-                }
-                l--;
-                r++;
+                l--, r++;
             }
 
             // Even length
             l = i, r = i + 1;
             while (0 <= l && r < n && s[l] == s[r]) {
                 int len = r - l + 1;
-                if (len > ans.size()) {
+                if (len > ans.size())
                     ans = s.substr(l, len);
-                }
-                l--;
-                r++;
+                l--, r++;
             }
         }
 
