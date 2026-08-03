@@ -416,4 +416,12 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vutiendat3601/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
