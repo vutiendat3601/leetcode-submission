@@ -1,23 +1,16 @@
 class Solution {
 private:
     int MAX = 100000;
-    int dfs(int amount, vector<int>& coins, vector<int>& cache) {
-        if (!amount)
-            return 0;
-        if (cache[amount] < 0) {
-            cache[amount] = MAX;
-            for (auto& coin : coins)
-                if (amount >= coin)
-                    cache[amount] = min(cache[amount],
-                                        1 + dfs(amount - coin, coins, cache));
-        }
-        return cache[amount];
-    }
 
 public:
     int coinChange(vector<int>& coins, int amount) {
-        vector<int> cache(amount + 1, -1);
-        int ans = dfs(amount, coins, cache);
-        return ans < MAX ? ans : -1;
+        vector<int> dp(amount + 1, MAX);
+        dp[0] = 0;
+        for (int a = 1; a <= amount; a++) {
+            for (auto& coin : coins)
+                if (a >= coin)
+                    dp[a] = min(dp[a], 1 + dp[a - coin]);
+        }
+        return dp[amount] < MAX ? dp[amount] : -1;
     }
 };
