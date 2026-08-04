@@ -59,6 +59,7 @@ A repository which I store my LeetCode AC submissions.
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/vutiendat3601/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0494-target-sum](https://github.com/vutiendat3601/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0740-delete-and-earn](https://github.com/vutiendat3601/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/vutiendat3601/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -97,6 +98,7 @@ A repository which I store my LeetCode AC submissions.
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/vutiendat3601/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0494-target-sum](https://github.com/vutiendat3601/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0740-delete-and-earn](https://github.com/vutiendat3601/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/vutiendat3601/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -273,6 +275,7 @@ A repository which I store my LeetCode AC submissions.
 | [0089-gray-code](https://github.com/vutiendat3601/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0090-subsets-ii](https://github.com/vutiendat3601/leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0093-restore-ip-addresses](https://github.com/vutiendat3601/leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
+| [0494-target-sum](https://github.com/vutiendat3601/leetcode/tree/main/0494-target-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -422,8 +425,13 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0494-target-sum](https://github.com/vutiendat3601/leetcode/tree/main/0494-target-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/vutiendat3601/leetcode/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
