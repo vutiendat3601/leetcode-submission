@@ -1,21 +1,20 @@
 class Solution {
 private:
-    int dfs(int i, int j, int m, int n, vector<vector<int>>& cache) {
-        if (i >= m || j >= n)
-            return 0;
-        if (i == m - 1 && j == n - 1)
+    int dfs(int m, int n, vector<vector<int>>& cache) {
+        if (!m && !n)
             return 1;
-        if (!cache[i][j])
-            cache[i][j] =
-                dfs(i + 1, j, m, n, cache) + dfs(i, j + 1, m, n, cache);
-        return cache[i][j];
+        if (!cache[m][n]) {
+            if (m)
+                cache[m][n] += dfs(m - 1, n, cache);
+            if (n)
+                cache[m][n] += dfs(m, n - 1, cache);
+        }
+        return cache[m][n];
     }
 
 public:
     int uniquePaths(int m, int n) {
         vector<vector<int>> cache(m, vector<int>(n, 0));
-        return dfs(0, 0, m, n, cache);
+        return dfs(m - 1, n - 1, cache);
     }
 };
-
-// DP + memorization, time: O(m.n), space: O(m.n)
