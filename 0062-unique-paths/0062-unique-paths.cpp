@@ -1,7 +1,7 @@
 class Solution {
 private:
     int dfs(int m, int n, vector<vector<int>>& cache) {
-        if (!m && !n)
+        if (!m || !n)
             return 1;
         if (!cache[m][n]) {
             if (m)
