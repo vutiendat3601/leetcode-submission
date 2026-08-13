@@ -173,6 +173,7 @@ A repository which I store my LeetCode AC submissions.
 | [0024-swap-nodes-in-pairs](https://github.com/vutiendat3601/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/vutiendat3601/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/vutiendat3601/leetcode/tree/main/0050-powx-n/) | Medium |
+| [0143-reorder-list](https://github.com/vutiendat3601/leetcode/tree/main/0143-reorder-list/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +218,7 @@ A repository which I store my LeetCode AC submissions.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vutiendat3601/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/vutiendat3601/leetcode/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0143-reorder-list](https://github.com/vutiendat3601/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vutiendat3601/leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Math
@@ -298,6 +300,7 @@ A repository which I store my LeetCode AC submissions.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vutiendat3601/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/vutiendat3601/leetcode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/vutiendat3601/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0143-reorder-list](https://github.com/vutiendat3601/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/vutiendat3601/leetcode/tree/main/0146-lru-cache/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -308,6 +311,7 @@ A repository which I store my LeetCode AC submissions.
 | [0071-simplify-path](https://github.com/vutiendat3601/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/vutiendat3601/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/vutiendat3601/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0143-reorder-list](https://github.com/vutiendat3601/leetcode/tree/main/0143-reorder-list/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
