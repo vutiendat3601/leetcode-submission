@@ -12,10 +12,9 @@ class Solution {
 public:
     void reorderList(ListNode* head) {
         ListNode *fs = head->next, *sl = head, *tail = nullptr;
-        while (fs && fs->next) {
-            sl = sl->next;
-            fs = fs->next->next;
-        }
+        while (fs && fs->next)
+            sl = sl->next, fs = fs->next->next;
+
         ListNode* tmp = sl->next;
         sl->next = nullptr;
         sl = tmp;
@@ -35,11 +34,10 @@ public:
             h1 = nextH1;
             h2 = nextH2;
         }
-        if (h1) {
+        if (h1)
             node->next = h1;
-        }
-        if (h2) {
+
+        if (h2)
             node->next = h2;
-        }
     }
 };
