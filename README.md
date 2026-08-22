@@ -241,6 +241,7 @@ A repository which I store my LeetCode AC submissions.
 | [0313-super-ugly-number](https://github.com/vutiendat3601/leetcode/tree/main/0313-super-ugly-number/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vutiendat3601/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vutiendat3601/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
