@@ -1,10 +1,9 @@
 class Solution {
 public:
     bool checkDivisibility(int n) {
-        int p = 1, s = 0;
-        string n_str = to_string(n);
-        for (int i = n_str.size() - 1; i >= 0; i--)
-            p *= n_str[i] - '0', s += n_str[i] - '0';
-        return n % (p + s) == 0;
+        int orig_n = n, p = 1, s = 0;
+        while (n > 0)
+            p *= n % 10, s += n % 10, n /= 10;
+        return orig_n % (p + s) == 0;
     }
 };
