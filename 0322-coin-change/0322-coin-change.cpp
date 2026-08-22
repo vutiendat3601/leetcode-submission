@@ -5,12 +5,10 @@ public:
         dp[0] = 0;
         for (int i = 1; i <= amount; i++) {
             for (auto& coin : coins) {
-                if (i >= coin && dp[i - coin] != -1)
+                if (i >= coin && dp[i - coin] != INT_MAX)
                     dp[i] = min(dp[i], 1 + dp[i - coin]);
             }
-            if (dp[i] == INT_MAX)
-                dp[i] = -1;
         }
-        return dp[amount];
+        return dp[amount] < INT_MAX ? dp[amount] : -1;
     }
 };
