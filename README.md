@@ -60,6 +60,7 @@ A repository which I store my LeetCode AC submissions.
 | [0313-super-ugly-number](https://github.com/vutiendat3601/leetcode/tree/main/0313-super-ugly-number/) | Medium |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/vutiendat3601/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/vutiendat3601/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/vutiendat3601/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/vutiendat3601/leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -102,6 +103,7 @@ A repository which I store my LeetCode AC submissions.
 | [0313-super-ugly-number](https://github.com/vutiendat3601/leetcode/tree/main/0313-super-ugly-number/) | Medium |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0377-combination-sum-iv](https://github.com/vutiendat3601/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/vutiendat3601/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/vutiendat3601/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/vutiendat3601/leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -441,6 +443,7 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/vutiendat3601/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/vutiendat3601/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/vutiendat3601/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
@@ -451,6 +454,7 @@ A repository which I store my LeetCode AC submissions.
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/vutiendat3601/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/vutiendat3601/leetcode/tree/main/0494-target-sum/) | Medium |
 ## Brute-Force Search
 | Problem Name | Difficulty |
