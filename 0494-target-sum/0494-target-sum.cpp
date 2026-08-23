@@ -1,10 +1,10 @@
 class Solution {
 private:
-    int n, target;
+    int n;
     int dfs(int k, int sum, vector<int>& nums,
             vector<unordered_map<int, int>>& cache) {
         if (k >= n)
-            return sum == target ? 1 : 0;
+            return sum ? 0 : 1;
         if (!cache[k].count(sum))
             cache[k][sum] = dfs(k + 1, sum + nums[k], nums, cache) +
                             dfs(k + 1, sum - nums[k], nums, cache);
@@ -13,8 +13,8 @@ private:
 
 public:
     int findTargetSumWays(vector<int>& nums, int target) {
-        n = nums.size(), this->target = target;
+        n = nums.size();
         vector<unordered_map<int, int>> cache(n);
-        return dfs(0, 0, nums, cache);
+        return dfs(0, target, nums, cache);
     }
 };
