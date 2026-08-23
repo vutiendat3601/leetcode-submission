@@ -1,19 +1,11 @@
 class Solution {
-private:
-    int n;
-    int dfs(int k, vector<int>& nums, vector<int>& cache) {
-        if (k >= n)
-            return 0;
-        if (cache[k] < 0)
-            cache[k] =
-                max(nums[k] + dfs(k + 2, nums, cache), dfs(k + 1, nums, cache));
-        return cache[k];
-    }
-
 public:
     int rob(vector<int>& nums) {
-        n = nums.size();
-        vector<int> cache(n + 1, -1);
-        return dfs(0, nums, cache);
+        int n = nums.size();
+        vector<int> dp(n + 1, 0);
+        dp[n - 1] = nums[n - 1];
+        for (int i = n - 2; i >= 0; i--)
+            dp[i] = max(nums[i] + dp[i + 2], dp[i + 1]);
+        return dp[0];
     }
 };
