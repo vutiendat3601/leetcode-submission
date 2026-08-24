@@ -1,5 +1,6 @@
 class Solution {
 private:
+/*
     int n;
     int dfs(int k, int isSell, vector<int>& prices,
             vector<vector<int>>& cache) {
@@ -17,11 +18,20 @@ private:
         }
         return cache[k][isSell];
     }
-
+*/
 public:
     int maxProfit(vector<int>& prices) {
-        n = prices.size();
-        vector<vector<int>> cache(n, vector<int>(2, -1));
-        return dfs(0, 0, prices, cache);
+        int n = prices.size();
+        vector<vector<int>> dp(n + 2, vector<int>(2, 0));
+        for (int k = n - 1; k >= 0; k--) {
+            for (int isSell = 0; isSell <= 1; isSell++) {
+                dp[k][isSell] = dp[k + 1][isSell];
+                if (isSell)
+                    dp[k][isSell] = max(dp[k][isSell], prices[k] + dp[k + 2][0]);
+                else
+                    dp[k][isSell] = max(dp[k][isSell], -prices[k] + dp[k + 1][1]);
+            }
+        }
+        return dp[0][0];
     }
 };
