@@ -1,25 +1,23 @@
 class Solution {
 private:
-    int dfs(int amount, int k, vector<int>& coins, vector<vector<int>>& cache) {
+    int n;
+    int dfs(int k, int amount, vector<int>& coins, vector<vector<int>>& cache) {
         if (!amount)
             return 1;
-        if (k < 0)
+        if (k >= n)
             return 0;
-        int n = coins.size();
-        if (cache[amount][k] < 0) {
-            cache[amount][k] = 0;
+        if (cache[k][amount] < 0) {
+            cache[k][amount] = dfs(k + 1, amount, coins, cache);
             if (amount >= coins[k])
-                cache[amount][k] += dfs(amount - coins[k], k, coins, cache);
-            cache[amount][k] += dfs(amount, k - 1, coins, cache);
+                cache[k][amount] += dfs(k, amount - coins[k], coins, cache);
         }
-        return cache[amount][k];
+        return cache[k][amount];
     }
 
 public:
     int change(int amount, vector<int>& coins) {
-        int n = coins.size();
-        sort(coins.begin(), coins.end());
-        vector<vector<int>> cache(amount + 1, vector<int>(n, -1));
-        return dfs(amount, n - 1, coins, cache);
+        n = coins.size();
+        vector<vector<int>> cache(n, vector<int>(amount + 1, -1));
+        return dfs(0, amount, coins, cache);
     }
 };
