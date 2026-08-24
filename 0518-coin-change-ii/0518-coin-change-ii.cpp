@@ -1,5 +1,7 @@
+typedef unsigned long long ull;
 class Solution {
 private:
+/*
     int n;
     int dfs(int k, int amount, vector<int>& coins, vector<vector<int>>& cache) {
         if (!amount)
@@ -13,11 +15,20 @@ private:
         }
         return cache[k][amount];
     }
-
+*/
 public:
     int change(int amount, vector<int>& coins) {
-        n = coins.size();
-        vector<vector<int>> cache(n, vector<int>(amount + 1, -1));
-        return dfs(0, amount, coins, cache);
+        int n = coins.size();
+        vector<vector<ull>> dp(n + 1, vector<ull>(amount + 1, 0));
+        for (int k = 0; k <= n; k++)
+            dp[k][0] = 1;
+        for (int k = n - 1; k >= 0; k--) {
+            for (int a = 1; a <= amount; a++) {
+                dp[k][a] = dp[k + 1][a];
+                if (a >= coins[k])
+                    dp[k][a] += dp[k][a - coins[k]];
+            }
+        }
+        return dp[0][amount];
     }
 };
