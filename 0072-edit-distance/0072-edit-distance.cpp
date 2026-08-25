@@ -7,10 +7,11 @@ private:
         if (i >= n2)
             return n1 - k;
         if (cache[k][i] == INT_MAX) {
-            int match = 0;
-            cache[k][i] = min(1 + dfs(k + 1, i, w1, w2, cache),
-                              1 + (match = dfs(k + 1, i + 1, w1, w2, cache)));
-            cache[k][i] = min(cache[k][i], 1 + dfs(k, i + 1, w1, w2, cache));
+            int match = dfs(k + 1, i + 1, w1, w2, cache);
+            int insert = 1 + dfs(k, i + 1, w1, w2, cache);
+            int remove = 1 + dfs(k + 1, i, w1, w2, cache);
+            int replace = 1 + match;
+            cache[k][i] = min(insert, min(remove, replace));
             if (w1[k] == w2[i])
                 cache[k][i] = min(cache[k][i], match);
         }
