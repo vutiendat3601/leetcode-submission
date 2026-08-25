@@ -110,6 +110,7 @@ A repository which I store my LeetCode AC submissions.
 | [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0494-target-sum](https://github.com/vutiendat3601/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/vutiendat3601/leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0650-2-keys-keyboard](https://github.com/vutiendat3601/leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0740-delete-and-earn](https://github.com/vutiendat3601/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/vutiendat3601/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -245,6 +246,7 @@ A repository which I store my LeetCode AC submissions.
 | [0070-climbing-stairs](https://github.com/vutiendat3601/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0089-gray-code](https://github.com/vutiendat3601/leetcode/tree/main/0089-gray-code/) | Medium |
 | [0313-super-ugly-number](https://github.com/vutiendat3601/leetcode/tree/main/0313-super-ugly-number/) | Medium |
+| [0650-2-keys-keyboard](https://github.com/vutiendat3601/leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vutiendat3601/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vutiendat3601/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
