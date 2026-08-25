@@ -28,10 +28,11 @@ public:
                 dp[a][clipboard] =
                     min(dp[a][clipboard], 1 + dp[a - clipboard][clipboard]);
                 dp[a][a] = min(dp[a][a], dp[a][clipboard] + 1);
-                if (a == n)
-                    ans = min(ans, min(dp[a][clipboard], dp[a][a]));
             }
         }
+        for (int clipboard = 0; clipboard <= n; clipboard++)
+            ans = min(ans, min(dp[n][clipboard], dp[n][n]));
+
         return ans;
     }
 };
