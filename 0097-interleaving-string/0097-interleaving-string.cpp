@@ -9,15 +9,15 @@ private:
         if (i1 > n1 || i2 > n2)
             return 0;
         if (cache[i1][i2] < 0) {
-            bool s1_check = i1 < n1 ? s[k] == s1[i1] : 0;
-            bool s2_check = i2 < n2 ? s[k] == s2[i2] : 0;
+            bool s1_cont = i1 < n1 ? s[k] == s1[i1] : 0;
+            bool s2_cont = i2 < n2 ? s[k] == s2[i2] : 0;
             cache[i1][i2] = 0;
-            if (s1_check && s2_check)
+            if (s1_cont && s2_cont)
                 cache[i1][i2] =
                     dfs(i1 + 1, i2, cache) || dfs(i1, i2 + 1, cache);
-            else if (s1_check)
+            else if (s1_cont)
                 cache[i1][i2] = dfs(i1 + 1, i2, cache);
-            else if (s2_check)
+            else if (s2_cont)
                 cache[i1][i2] = dfs(i1, i2 + 1, cache);
         }
         return cache[i1][i2];
