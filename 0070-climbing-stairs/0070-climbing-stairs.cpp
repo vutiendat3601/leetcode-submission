@@ -1,10 +1,16 @@
 class Solution {
+private:
+    int dfs(int n, vector<int>& cache) {
+        if (!n || n == 1)
+            return 1;
+        if (cache[n] < 0)
+            cache[n] = dfs(n - 1, cache) + dfs(n - 2, cache);
+        return cache[n];
+    }
+
 public:
     int climbStairs(int n) {
-        vector<int> dp(n + 1, 0);
-        dp[0] = 1, dp[1] = 1;
-        for (int i = 2; i <= n; i++)
-            dp[i] = dp[i - 1] + dp[i - 2];
-        return dp[n];
+        vector<int> cache(n + 1, -1);
+        return dfs(n, cache);
     }
 };
