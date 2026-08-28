@@ -5,9 +5,6 @@ private:
     int dfs(int a, int clipboard, vector<vector<int>>& cache) {
         if (a == n)
             return 0;
-        if (a > n)
-            return MAX;
-
         if (cache[a][clipboard] == INT_MAX) {
             cache[a][clipboard] = MAX;
             if (a + a <= n)
