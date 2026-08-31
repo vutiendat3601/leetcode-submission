@@ -318,6 +318,7 @@ A repository which I store my LeetCode AC submissions.
 | [0092-reverse-linked-list-ii](https://github.com/vutiendat3601/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0143-reorder-list](https://github.com/vutiendat3601/leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/vutiendat3601/leetcode/tree/main/0146-lru-cache/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vutiendat3601/leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
