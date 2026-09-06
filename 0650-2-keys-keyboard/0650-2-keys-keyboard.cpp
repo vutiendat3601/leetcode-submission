@@ -7,11 +7,10 @@ private:
             return MAX;
         if (k == n)
             return 0;
-        if (cache[k][c] < 0) {
-            if (c)
-                return min(1 + dfs(k + c, c, cache), 2 + dfs(k + k, k, cache));
-            return 2 + dfs(k + k, k, cache);
-        }
+        if (cache[k][c] < 0)
+            cache[k][c] = min(c ? 1 + dfs(k + c, c, cache) : MAX,
+                              2 + dfs(k + k, k, cache));
+
         return cache[k][c];
     }
 
