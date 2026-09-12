@@ -71,6 +71,7 @@ A repository which I store my LeetCode AC submissions.
 | [0877-stone-game](https://github.com/vutiendat3601/leetcode/tree/main/0877-stone-game/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/vutiendat3601/leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1035-uncrossed-lines](https://github.com/vutiendat3601/leetcode/tree/main/1035-uncrossed-lines/) | Medium |
+| [1052-grumpy-bookstore-owner](https://github.com/vutiendat3601/leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/vutiendat3601/leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -191,6 +192,7 @@ A repository which I store my LeetCode AC submissions.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vutiendat3601/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vutiendat3601/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [1052-grumpy-bookstore-owner](https://github.com/vutiendat3601/leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
