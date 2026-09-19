@@ -255,6 +255,7 @@ A repository which I store my LeetCode AC submissions.
 | [0313-super-ugly-number](https://github.com/vutiendat3601/leetcode/tree/main/0313-super-ugly-number/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/vutiendat3601/leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0877-stone-game](https://github.com/vutiendat3601/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/vutiendat3601/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vutiendat3601/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vutiendat3601/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -493,4 +494,8 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vutiendat3601/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/vutiendat3601/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
