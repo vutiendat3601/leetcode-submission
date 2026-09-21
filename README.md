@@ -73,6 +73,7 @@ A repository which I store my LeetCode AC submissions.
 | [1035-uncrossed-lines](https://github.com/vutiendat3601/leetcode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/vutiendat3601/leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/vutiendat3601/leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1626-best-team-with-no-conflicts](https://github.com/vutiendat3601/leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vutiendat3601/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -255,6 +256,7 @@ A repository which I store my LeetCode AC submissions.
 | [0313-super-ugly-number](https://github.com/vutiendat3601/leetcode/tree/main/0313-super-ugly-number/) | Medium |
 | [0650-2-keys-keyboard](https://github.com/vutiendat3601/leetcode/tree/main/0650-2-keys-keyboard/) | Medium |
 | [0877-stone-game](https://github.com/vutiendat3601/leetcode/tree/main/0877-stone-game/) | Medium |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/vutiendat3601/leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vutiendat3601/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vutiendat3601/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -377,6 +379,7 @@ A repository which I store my LeetCode AC submissions.
 | [0054-spiral-matrix](https://github.com/vutiendat3601/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/vutiendat3601/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/vutiendat3601/leetcode/tree/main/0067-add-binary/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/vutiendat3601/leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/vutiendat3601/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
