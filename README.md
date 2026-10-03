@@ -505,6 +505,7 @@ A repository which I store my LeetCode AC submissions.
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vutiendat3601/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/vutiendat3601/leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/vutiendat3601/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vutiendat3601/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
