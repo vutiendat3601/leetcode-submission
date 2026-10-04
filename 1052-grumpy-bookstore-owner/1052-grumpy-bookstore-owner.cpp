@@ -21,7 +21,7 @@ public:
 
             if (sum > mxSum)
                 ans -= mxSum, mxSum = sum, ans += mxSum;
-                
+
             l++;
         }
         return ans;
