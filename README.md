@@ -336,6 +336,7 @@ A repository which I store my LeetCode AC submissions.
 | [0084-largest-rectangle-in-histogram](https://github.com/vutiendat3601/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/vutiendat3601/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0143-reorder-list](https://github.com/vutiendat3601/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0155-min-stack](https://github.com/vutiendat3601/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/vutiendat3601/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vutiendat3601/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Heap (Priority Queue)
@@ -439,6 +440,7 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/vutiendat3601/leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0155-min-stack](https://github.com/vutiendat3601/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/vutiendat3601/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vutiendat3601/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 ## Doubly-Linked List
