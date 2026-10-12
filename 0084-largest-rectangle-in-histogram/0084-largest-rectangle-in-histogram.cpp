@@ -6,23 +6,19 @@ public:
         vector<int> bl(n), br(n);
         for (int i = 0; i < n; i++) {
             bl[i] = i;
-            while (!st1.empty() && h[st1.top()] >= h[i]) {
-                bl[i] = bl[st1.top()];
-                st1.pop();
-            }
+            while (!st1.empty() && h[st1.top()] >= h[i])
+                bl[i] = bl[st1.top()], st1.pop();
             st1.push(i);
         }
         for (int i = n - 1; i >= 0; i--) {
             br[i] = i;
-            while (!st2.empty() && h[st2.top()] >= h[i]) {
-                br[i] = br[st2.top()];
-                st2.pop();
-            }
+            while (!st2.empty() && h[st2.top()] >= h[i])
+                br[i] = br[st2.top()], st2.pop();
             st2.push(i);
         }
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++)
             ans = max(ans, (br[i] - bl[i] + 1) * h[i]);
-        }
+
         return ans;
     }
 };
