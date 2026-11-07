@@ -1,41 +1,30 @@
 class LRUCache {
 private:
+    unordered_map<int, pair<int, list<int>::iterator>> cache;
+    list<int> order;
     int capacity;
-    unordered_map<int, pair<int, list<int>::iterator>> vals;
-    list<int> last_access;
+
 public:
-    LRUCache(int capacity) {
-        this->capacity = capacity;
-    }
-    
+    LRUCache(int capacity) { this->capacity = capacity; }
+
     int get(int key) {
-        if (vals.count(key)) {
-            last_access.erase(vals[key].second);
-            last_access.push_back(key);
-            vals[key].second = --last_access.end();
-            return vals[key].first;
-        }
-        return -1;
+        if (cache.find(key) == cache.end())
+            return -1;
+        order.erase(cache[key].second);
+        order.push_back(key);
+        cache[key].second = --order.end();
+        return cache[key].first;
     }
-    
+
     void put(int key, int value) {
-        if (vals.count(key)) {
-            last_access.erase(vals[key].second);
-        } else {
-            if (vals.size() >= this->capacity) {
-                int lru = last_access.front();
-                last_access.pop_front();
-                vals.erase(lru);
-            }
+        if (cache.find(key) != cache.end()) {
+            order.erase(cache[key].second);
+        } else if (cache.size() == capacity) {
+            int lru = order.front();
+            order.pop_front();
+            cache.erase(lru);
         }
-        last_access.push_back(key);
-        vals[key] = {value, --last_access.end()};
+        order.push_back(key);
+        cache[key] = {value, --order.end()};
     }
 };
-
-/**
- * Your LRUCache object will be instantiated and called as such:
- * LRUCache* obj = new LRUCache(capacity);
- * int param_1 = obj->get(key);
- * obj->put(key,value);
- */
