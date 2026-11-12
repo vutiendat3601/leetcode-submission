@@ -82,6 +82,7 @@ A repository which I store my LeetCode AC submissions.
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vutiendat3601/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/vutiendat3601/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/vutiendat3601/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/vutiendat3601/leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vutiendat3601/leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vutiendat3601/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -264,6 +265,7 @@ A repository which I store my LeetCode AC submissions.
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vutiendat3601/leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vutiendat3601/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vutiendat3601/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/vutiendat3601/leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vutiendat3601/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/vutiendat3601/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
