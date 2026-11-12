@@ -265,6 +265,7 @@ A repository which I store my LeetCode AC submissions.
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vutiendat3601/leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vutiendat3601/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vutiendat3601/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2806-account-balance-after-rounded-purchase](https://github.com/vutiendat3601/leetcode/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/vutiendat3601/leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vutiendat3601/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
