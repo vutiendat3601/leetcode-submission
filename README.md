@@ -194,6 +194,7 @@ A repository which I store my LeetCode AC submissions.
 | [0024-swap-nodes-in-pairs](https://github.com/vutiendat3601/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/vutiendat3601/leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/vutiendat3601/leetcode/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/vutiendat3601/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/vutiendat3601/leetcode/tree/main/0143-reorder-list/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -256,6 +257,7 @@ A repository which I store my LeetCode AC submissions.
 | [0043-multiply-strings](https://github.com/vutiendat3601/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/vutiendat3601/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/vutiendat3601/leetcode/tree/main/0050-powx-n/) | Medium |
+| [0060-permutation-sequence](https://github.com/vutiendat3601/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/vutiendat3601/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/vutiendat3601/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/vutiendat3601/leetcode/tree/main/0067-add-binary/) | Easy |
