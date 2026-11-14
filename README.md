@@ -85,6 +85,7 @@ A repository which I store my LeetCode AC submissions.
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/vutiendat3601/leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vutiendat3601/leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/vutiendat3601/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vutiendat3601/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/vutiendat3601/leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Dynamic Programming
@@ -200,6 +201,7 @@ A repository which I store my LeetCode AC submissions.
 | [0003-longest-substring-without-repeating-characters](https://github.com/vutiendat3601/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vutiendat3601/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [1052-grumpy-bookstore-owner](https://github.com/vutiendat3601/leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/vutiendat3601/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -542,4 +544,8 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/vutiendat3601/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/vutiendat3601/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
