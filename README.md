@@ -86,6 +86,7 @@ A repository which I store my LeetCode AC submissions.
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vutiendat3601/leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vutiendat3601/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3861-minimum-capacity-box](https://github.com/vutiendat3601/leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
