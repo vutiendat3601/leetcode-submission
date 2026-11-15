@@ -12,24 +12,16 @@ public:
     }
 
     void push(int val) {
-        if (index + 1 < capacity)
-            index++, data[index] = val;
+        index++, data[index] = val;
         if (index)
             mns[index] = min(mns[index - 1], data[index]);
         else
             mns[index] = data[index];
     }
 
-    void pop() {
-        if (index >= 0)
-            mns[index] = LONG_MAX, data[index] = LONG_MIN, index--;
-    }
+    void pop() { mns[index] = LONG_MAX, data[index] = LONG_MIN, index--; }
 
-    int top() {
-        if (index >= 0)
-            return data[index];
-        return -1;
-    }
+    int top() { return data[index]; }
 
     int getMin() { return mns[index]; }
 };
