@@ -75,6 +75,7 @@ A repository which I store my LeetCode AC submissions.
 | [1052-grumpy-bookstore-owner](https://github.com/vutiendat3601/leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vutiendat3601/leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vutiendat3601/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/vutiendat3601/leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vutiendat3601/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -129,6 +130,7 @@ A repository which I store my LeetCode AC submissions.
 | [0983-minimum-cost-for-tickets](https://github.com/vutiendat3601/leetcode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1035-uncrossed-lines](https://github.com/vutiendat3601/leetcode/tree/main/1035-uncrossed-lines/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vutiendat3601/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/vutiendat3601/leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [2466-count-ways-to-build-good-strings](https://github.com/vutiendat3601/leetcode/tree/main/2466-count-ways-to-build-good-strings/) | Medium |
 ## Hash Table
@@ -271,6 +273,7 @@ A repository which I store my LeetCode AC submissions.
 | [0877-stone-game](https://github.com/vutiendat3601/leetcode/tree/main/0877-stone-game/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vutiendat3601/leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vutiendat3601/leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vutiendat3601/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vutiendat3601/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2806-account-balance-after-rounded-purchase](https://github.com/vutiendat3601/leetcode/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/vutiendat3601/leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
@@ -553,5 +556,6 @@ A repository which I store my LeetCode AC submissions.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vutiendat3601/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/vutiendat3601/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 <!---LeetCode Topics End-->
