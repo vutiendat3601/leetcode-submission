@@ -1,36 +1,35 @@
 class MinStack {
 private:
-    int idx = -1;
-    int sz = 0;
-    vector<int> mn, st;
+    int index = -1;
+    int capacity;
+    vector<long> data;
+    vector<long> mns;
 
 public:
     MinStack() {
-        mn.assign(50000, INT_MAX);
-        st.resize(50000);
+        capacity = 3 * 1E4 + 1;
+        data.assign(capacity, LONG_MIN), mns.assign(capacity, LONG_MAX);
     }
 
-    void push(int value) {
-        idx++;
-        mn[idx] = min(idx - 1 >= 0 ? mn[idx - 1] : INT_MAX, value);
-        st[idx] = value;
+    void push(int val) {
+        if (index + 1 < capacity)
+            index++, data[index] = val;
+        if (index)
+            mns[index] = min(mns[index - 1], data[index]);
+        else
+            mns[index] = data[index];
     }
 
     void pop() {
-        mn[idx] = INT_MAX;
-        idx--;
+        if (index >= 0)
+            mns[index] = LONG_MAX, data[index] = LONG_MIN, index--;
     }
 
-    int top() { return st[idx]; }
+    int top() {
+        if (index >= 0)
+            return data[index];
+        return -1;
+    }
 
-    int getMin() { return mn[idx]; }
+    int getMin() { return mns[index]; }
 };
-
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack* obj = new MinStack();
- * obj->push(value);
- * obj->pop();
- * int param_3 = obj->top();
- * int param_4 = obj->getMin();
- */
