@@ -10,23 +10,20 @@
  * };
  */
 class Solution {
+private:
+    void dfs(TreeNode* root, vector<int>& ans) {
+        if (!root)
+            return;
+        if (root->left)
+            dfs(root->left, ans);
+        ans.push_back(root->val);
+        if (root->right)
+            dfs(root->right, ans);
+    }
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        stack<TreeNode*> st;
-        TreeNode* cur = root;
         vector<int> ans;
-        while (st.size() || cur) {
-            while (cur) {
-                st.push(cur);
-                cur = cur->left;
-            }
-            cur = st.top();
-            st.pop();
-            ans.push_back(cur->val);
-            cur = cur->right;
-        }
+        dfs(root, ans);
         return ans;
     }
 };
-
-// Iterative DFS, time: O(n), space: O(n)
