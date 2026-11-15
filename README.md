@@ -418,6 +418,7 @@ A repository which I store my LeetCode AC submissions.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vutiendat3601/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -437,6 +438,7 @@ A repository which I store my LeetCode AC submissions.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vutiendat3601/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/vutiendat3601/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vutiendat3601/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vutiendat3601/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/vutiendat3601/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vutiendat3601/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -449,6 +451,7 @@ A repository which I store my LeetCode AC submissions.
 | [0079-word-search](https://github.com/vutiendat3601/leetcode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/vutiendat3601/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/vutiendat3601/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vutiendat3601/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vutiendat3601/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/vutiendat3601/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vutiendat3601/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -459,6 +462,7 @@ A repository which I store my LeetCode AC submissions.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vutiendat3601/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/vutiendat3601/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vutiendat3601/leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vutiendat3601/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/vutiendat3601/leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/vutiendat3601/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
