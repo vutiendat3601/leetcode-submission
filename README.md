@@ -570,4 +570,8 @@ A repository which I store my LeetCode AC submissions.
 | ------- | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vutiendat3601/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/vutiendat3601/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/vutiendat3601/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
