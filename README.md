@@ -187,6 +187,7 @@ A repository which I store my LeetCode AC submissions.
 | [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vutiendat3601/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vutiendat3601/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vutiendat3601/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vutiendat3601/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/vutiendat3601/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vutiendat3601/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -410,6 +411,7 @@ A repository which I store my LeetCode AC submissions.
 | [0059-spiral-matrix-ii](https://github.com/vutiendat3601/leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0067-add-binary](https://github.com/vutiendat3601/leetcode/tree/main/0067-add-binary/) | Easy |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vutiendat3601/leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/vutiendat3601/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/vutiendat3601/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
