@@ -8,9 +8,9 @@ public:
         for (char& ch : path) {
             if (ch == '/') {
                 if (cur == "..") {
-                    if (!st.empty()) {
+                    if (!st.empty())
                         st.pop();
-                    }
+
                 } else if (cur != "" && cur != ".") {
                     st.push(cur);
                 }
@@ -22,9 +22,8 @@ public:
         while (!st.empty()) {
             ans = st.top() + ans;
             st.pop();
-            if (!st.empty()) {
+            if (!st.empty())
                 ans = "/" + ans;
-            }
         }
         ans = "/" + ans;
         return ans;
