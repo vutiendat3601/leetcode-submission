@@ -76,6 +76,7 @@ A repository which I store my LeetCode AC submissions.
 | [1105-filling-bookcase-shelves](https://github.com/vutiendat3601/leetcode/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vutiendat3601/leetcode/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vutiendat3601/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1534-count-good-triplets](https://github.com/vutiendat3601/leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [1626-best-team-with-no-conflicts](https://github.com/vutiendat3601/leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1861-rotating-the-box](https://github.com/vutiendat3601/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vutiendat3601/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -576,4 +577,8 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/vutiendat3601/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1534-count-good-triplets](https://github.com/vutiendat3601/leetcode/tree/main/1534-count-good-triplets/) | Easy |
 <!---LeetCode Topics End-->
