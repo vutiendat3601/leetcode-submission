@@ -89,6 +89,7 @@ A repository which I store my LeetCode AC submissions.
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/vutiendat3601/leetcode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/vutiendat3601/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vutiendat3601/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vutiendat3601/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/vutiendat3601/leetcode/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Dynamic Programming
@@ -211,6 +212,7 @@ A repository which I store my LeetCode AC submissions.
 | [0076-minimum-window-substring](https://github.com/vutiendat3601/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [1052-grumpy-bookstore-owner](https://github.com/vutiendat3601/leetcode/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/vutiendat3601/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vutiendat3601/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +284,7 @@ A repository which I store my LeetCode AC submissions.
 | [2806-account-balance-after-rounded-purchase](https://github.com/vutiendat3601/leetcode/tree/main/2806-account-balance-after-rounded-purchase/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/vutiendat3601/leetcode/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vutiendat3601/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vutiendat3601/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vutiendat3601/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/vutiendat3601/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Greedy
@@ -502,6 +505,7 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vutiendat3601/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vutiendat3601/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -584,4 +588,5 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/vutiendat3601/leetcode/tree/main/1534-count-good-triplets/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vutiendat3601/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
