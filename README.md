@@ -57,6 +57,7 @@ A repository which I store my LeetCode AC submissions.
 | [0179-largest-number](https://github.com/vutiendat3601/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0198-house-robber](https://github.com/vutiendat3601/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/vutiendat3601/leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/vutiendat3601/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vutiendat3601/leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0313-super-ugly-number](https://github.com/vutiendat3601/leetcode/tree/main/0313-super-ugly-number/) | Medium |
@@ -150,6 +151,7 @@ A repository which I store my LeetCode AC submissions.
 | [0128-longest-consecutive-sequence](https://github.com/vutiendat3601/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/vutiendat3601/leetcode/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/vutiendat3601/leetcode/tree/main/0146-lru-cache/) | Medium |
+| [0217-contains-duplicate](https://github.com/vutiendat3601/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/vutiendat3601/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0740-delete-and-earn](https://github.com/vutiendat3601/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/vutiendat3601/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -315,6 +317,7 @@ A repository which I store my LeetCode AC submissions.
 | [0075-sort-colors](https://github.com/vutiendat3601/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vutiendat3601/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0179-largest-number](https://github.com/vutiendat3601/leetcode/tree/main/0179-largest-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/vutiendat3601/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/vutiendat3601/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1626-best-team-with-no-conflicts](https://github.com/vutiendat3601/leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vutiendat3601/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
