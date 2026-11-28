@@ -6,11 +6,8 @@ public:
         stack<int> st;
         st.push(0);
         for (int i = 1; i < n; i++) {
-            int k = 0;
-            while (st.size() && temperatures[i] > temperatures[st.top()]) {
-                k = st.top(), st.pop();
-                ans[k] = i - k;
-            }
+            while (st.size() && temperatures[i] > temperatures[st.top()])
+                ans[st.top()] = i - st.top(), st.pop();
             st.push(i);
         }
         return ans;
