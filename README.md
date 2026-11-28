@@ -62,6 +62,7 @@ A repository which I store my LeetCode AC submissions.
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vutiendat3601/leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0313-super-ugly-number](https://github.com/vutiendat3601/leetcode/tree/main/0313-super-ugly-number/) | Medium |
 | [0322-coin-change](https://github.com/vutiendat3601/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/vutiendat3601/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0377-combination-sum-iv](https://github.com/vutiendat3601/leetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/vutiendat3601/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
@@ -153,6 +154,7 @@ A repository which I store my LeetCode AC submissions.
 | [0146-lru-cache](https://github.com/vutiendat3601/leetcode/tree/main/0146-lru-cache/) | Medium |
 | [0217-contains-duplicate](https://github.com/vutiendat3601/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/vutiendat3601/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/vutiendat3601/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0740-delete-and-earn](https://github.com/vutiendat3601/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/vutiendat3601/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vutiendat3601/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -235,6 +237,7 @@ A repository which I store my LeetCode AC submissions.
 | [0004-median-of-two-sorted-arrays](https://github.com/vutiendat3601/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/vutiendat3601/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/vutiendat3601/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/vutiendat3601/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +322,7 @@ A repository which I store my LeetCode AC submissions.
 | [0179-largest-number](https://github.com/vutiendat3601/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/vutiendat3601/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/vutiendat3601/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/vutiendat3601/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1626-best-team-with-no-conflicts](https://github.com/vutiendat3601/leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vutiendat3601/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vutiendat3601/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -380,6 +384,7 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vutiendat3601/leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/vutiendat3601/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -516,6 +521,7 @@ A repository which I store my LeetCode AC submissions.
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vutiendat3601/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vutiendat3601/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
@@ -592,4 +598,12 @@ A repository which I store my LeetCode AC submissions.
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/vutiendat3601/leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vutiendat3601/leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vutiendat3601/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/vutiendat3601/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
