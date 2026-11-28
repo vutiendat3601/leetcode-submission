@@ -58,6 +58,7 @@ A repository which I store my LeetCode AC submissions.
 | [0198-house-robber](https://github.com/vutiendat3601/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/vutiendat3601/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/vutiendat3601/leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/vutiendat3601/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/vutiendat3601/leetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0313-super-ugly-number](https://github.com/vutiendat3601/leetcode/tree/main/0313-super-ugly-number/) | Medium |
@@ -587,6 +588,7 @@ A repository which I store my LeetCode AC submissions.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/vutiendat3601/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/vutiendat3601/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/vutiendat3601/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## DP on Trees
