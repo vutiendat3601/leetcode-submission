@@ -70,6 +70,7 @@ A repository which I store my LeetCode AC submissions.
 | [0494-target-sum](https://github.com/vutiendat3601/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/vutiendat3601/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vutiendat3601/leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0739-daily-temperatures](https://github.com/vutiendat3601/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0740-delete-and-earn](https://github.com/vutiendat3601/leetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/vutiendat3601/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/vutiendat3601/leetcode/tree/main/0877-stone-game/) | Medium |
@@ -379,6 +380,7 @@ A repository which I store my LeetCode AC submissions.
 | [0145-binary-tree-postorder-traversal](https://github.com/vutiendat3601/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/vutiendat3601/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/vutiendat3601/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0739-daily-temperatures](https://github.com/vutiendat3601/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vutiendat3601/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vutiendat3601/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Heap (Priority Queue)
@@ -419,6 +421,7 @@ A repository which I store my LeetCode AC submissions.
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/vutiendat3601/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/vutiendat3601/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0739-daily-temperatures](https://github.com/vutiendat3601/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
