@@ -195,6 +195,7 @@ A repository which I store my LeetCode AC submissions.
 | [0179-largest-number](https://github.com/vutiendat3601/leetcode/tree/main/0179-largest-number/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vutiendat3601/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0242-valid-anagram](https://github.com/vutiendat3601/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0394-decode-string](https://github.com/vutiendat3601/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/vutiendat3601/leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vutiendat3601/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vutiendat3601/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -212,6 +213,7 @@ A repository which I store my LeetCode AC submissions.
 | [0050-powx-n](https://github.com/vutiendat3601/leetcode/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/vutiendat3601/leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/vutiendat3601/leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0394-decode-string](https://github.com/vutiendat3601/leetcode/tree/main/0394-decode-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +384,7 @@ A repository which I store my LeetCode AC submissions.
 | [0145-binary-tree-postorder-traversal](https://github.com/vutiendat3601/leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/vutiendat3601/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/vutiendat3601/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0394-decode-string](https://github.com/vutiendat3601/leetcode/tree/main/0394-decode-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/vutiendat3601/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/vutiendat3601/leetcode/tree/main/0853-car-fleet/) | Medium |
 | [0901-online-stock-span](https://github.com/vutiendat3601/leetcode/tree/main/0901-online-stock-span/) | Medium |
