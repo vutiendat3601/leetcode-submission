@@ -384,6 +384,7 @@ A repository which I store my LeetCode AC submissions.
 | [0173-binary-search-tree-iterator](https://github.com/vutiendat3601/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0739-daily-temperatures](https://github.com/vutiendat3601/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/vutiendat3601/leetcode/tree/main/0853-car-fleet/) | Medium |
+| [0901-online-stock-span](https://github.com/vutiendat3601/leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vutiendat3601/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vutiendat3601/leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Heap (Priority Queue)
@@ -426,6 +427,7 @@ A repository which I store my LeetCode AC submissions.
 | [0084-largest-rectangle-in-histogram](https://github.com/vutiendat3601/leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/vutiendat3601/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/vutiendat3601/leetcode/tree/main/0853-car-fleet/) | Medium |
+| [0901-online-stock-span](https://github.com/vutiendat3601/leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -507,6 +509,7 @@ A repository which I store my LeetCode AC submissions.
 | [0155-min-stack](https://github.com/vutiendat3601/leetcode/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/vutiendat3601/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/vutiendat3601/leetcode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0901-online-stock-span](https://github.com/vutiendat3601/leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -615,4 +618,8 @@ A repository which I store my LeetCode AC submissions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vutiendat3601/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/vutiendat3601/leetcode/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
